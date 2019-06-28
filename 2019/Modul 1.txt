@@ -1,6 +1,0 @@
-In this module, you will learn about:
-   1. the fundamentals of computer programming;
-   2. setting up your programming environment;
-   3. compilation vs. interpretation;
-   4. introduction to Python.
-
